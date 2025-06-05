@@ -1,1 +1,2 @@
-# jxc
+# JXC
+Coding language
